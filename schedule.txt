@@ -12,5 +12,6 @@
 		need to learn from scratch
 3. Problems need to be discussed
 	textrank? or some efficient way do poems embedding
-	just a key word to do seq2seq? need a precise interface between models
+	(TF-IDF might worth a try https://zhuanlan.zhihu.com/p/41091116)
+	just a key word to do seq2seq? need a precise interface between models(more key words are generated randomly based on the 1st one to form a sequnce of which length is 4(写中文吧，英文太费劲))
 	can we do some improvement. pictures to poem or poems?	
