@@ -1,6 +1,6 @@
 1. Data preprocess
 	include:
-	extract 5-character poems from .json file
+	extract 5-character poems from .json file (done!
 	get familiar with CIFAR100 and load it
 	create a dictionary between key word and class name
 	word2vec training or other methods to do embedding
